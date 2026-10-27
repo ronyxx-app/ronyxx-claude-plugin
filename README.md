@@ -22,13 +22,19 @@ Each review asks Ronyxx a few questions one at a time and shows every answer exa
 
 ## What you need
 
-A Ronyxx account with your company's Odoo connected, and your work email on your company's Ronyxx team. Start at https://ronyxx.com. Until your Odoo is connected, Ronyxx answers from its sample company and says so in every answer.
+A Ronyxx account with your company's Odoo connected, and your work email on your company's Ronyxx team. You can start at https://ronyxx.com and connect your Odoo there. Until your Odoo is connected, Ronyxx answers from its sample company and says so in every answer.
 
 ## What it does with your data
 
-- The plugin connects Claude to Ronyxx's server at https://mcp.ronyxx.com/mcp, after you sign in to Ronyxx. Your questions go there and nowhere else.
+- The plugin connects Claude to Ronyxx's server at https://mcp.ronyxx.com/mcp after you sign in to Ronyxx. Your questions go there and nowhere else.
 - Ronyxx only reads your Odoo. It never creates, changes or deletes anything, and it answers only what your role in your company may see.
 - The reviews are instructions to Claude. They run no code on your computer.
-- Privacy: https://ronyxx.com/privacy. Terms: https://ronyxx.com/terms. Help: https://ronyxx.com/help. Support: support@ronyxx.com.
+
+## Links
+
+- Privacy policy: https://ronyxx.com/privacy
+- Terms: https://ronyxx.com/terms
+- Help: https://ronyxx.com/help
+- Support email: support@ronyxx.com
 
 Ronyxx is an independent product. It is not affiliated with or endorsed by Odoo S.A. Odoo is a trademark of Odoo S.A.
