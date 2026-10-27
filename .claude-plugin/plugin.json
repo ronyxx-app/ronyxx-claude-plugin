@@ -1,0 +1,10 @@
+{
+  "name": "ronyxx",
+  "displayName": "Ronyxx",
+  "version": "1.0.0",
+  "description": "Ask your Odoo ERP in plain words and get exact figures: sales, cash, profit, what customers owe, stock. Read-only. Includes month-end, collections, reorder and daily-numbers reviews.",
+  "author": { "name": "Ronyxx", "email": "support@ronyxx.com", "url": "https://ronyxx.com" },
+  "homepage": "https://ronyxx.com",
+  "license": "MIT",
+  "keywords": ["odoo", "odoo erp", "erp", "accounting", "bookkeeping", "finance", "month end close", "profit and loss", "accounts receivable", "collections", "cash flow", "inventory", "stock", "reorder", "sales reporting", "business reporting"]
+}
