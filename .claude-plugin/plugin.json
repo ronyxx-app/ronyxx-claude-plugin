@@ -6,6 +6,10 @@
   "author": { "name": "Ronyxx", "email": "support@ronyxx.com", "url": "https://ronyxx.com" },
   "homepage": "https://ronyxx.com",
   "privacyPolicyUrl": "https://ronyxx.com/privacy",
+  "termsOfServiceUrl": "https://ronyxx.com/terms",
+  "supportUrl": "https://ronyxx.com/help",
+  "documentationUrl": "https://ronyxx.com/help",
+  "repository": "https://github.com/ronyxx-app/ronyxx-claude-plugin",
   "license": "MIT",
   "keywords": ["odoo", "odoo erp", "erp", "accounting", "bookkeeping", "finance", "month end close", "profit and loss", "accounts receivable", "collections", "cash flow", "inventory", "stock", "reorder", "sales reporting", "business reporting"]
 }
